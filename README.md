@@ -1,4 +1,6 @@
 # Zomi Nest
+A website for Zomi Community. Facts, Quizes, Games, and other educational tools.
+
 A local MVP for knowledge quizzes, fictional outcome quizzes, and original personality self-reflection, with no-login participation, server scoring, edition-specific leaderboards, contributions and protected owner review.
 
 ## Start with Docker
@@ -118,4 +120,4 @@ scripts/verify-backup.sh
 
 For a Compose-only database, run `docker compose exec -T db pg_dump -U zomi -d zomi -Fc > backup.dump`; restore into a separate database with pg_restore. Store archives securely: they contain private account and answer data. The verification script restores into a disposable database, compares core table counts, then removes it.
 
-See [build status](docs/BUILD_STATUS.md), [requirements](docs/MVP.md) and [architecture](docs/ARCHITECTURE.md) for actual verification results and limits. No deployment, commits, or pushes are part of this task.
+See [build status](docs/BUILD_STATUS.md), [requirements](docs/MVP.md) and [architecture](docs/ARCHITECTURE.md) for actual verification results and limits.
