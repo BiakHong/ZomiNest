@@ -1,0 +1,23 @@
+// Verified Zomi translations have not yet been supplied. Central fallback registry.
+export const ui = {
+  title: import.meta.env.VITE_SITE_TITLE || "Zomi Nest",
+  home: "Home",
+  explore: "Explore activities",
+  profiles: "Personality profiles",
+  contribute: "Contribute",
+  results: "My results",
+  login: "Log in",
+  register: "Join the community",
+  logout: "Log out",
+  next: "Next question",
+  back: "Back",
+  finish: "See my result",
+  demo: "Development content",
+  start: "Start activity",
+  save: "Save draft",
+  submit: "Submit for review",
+  loading: "Loading…",
+  empty: "Nothing here yet.",
+  error: "Something went wrong. Please try again.",
+  language: "English preview · Zomi translations in review",
+};

@@ -1,0 +1,35 @@
+spring:
+  datasource:
+    url: ${DATABASE_URL:jdbc:postgresql://localhost:5433/zomi}
+    username: ${DATABASE_USER:zomi}
+    password: ${DATABASE_PASSWORD:zomi}
+  jpa:
+    hibernate.ddl-auto: validate
+    open-in-view: false
+  session:
+    jdbc.initialize-schema: never
+  mail:
+    host: ${SMTP_HOST:localhost}
+    port: ${SMTP_PORT:1025}
+    username: ${SMTP_USER:}
+    password: ${SMTP_PASSWORD:}
+    properties.mail.smtp.starttls.enable: ${SMTP_TLS:false}
+    properties.mail.smtp.connectiontimeout: 5000
+    properties.mail.smtp.timeout: 5000
+    properties.mail.smtp.writetimeout: 5000
+server:
+  port: 8080
+  servlet.session.timeout: 30d
+  servlet.session.cookie:
+    max-age: 30d
+    http-only: true
+    same-site: lax
+    secure: ${COOKIE_SECURE:false}
+  error.include-message: never
+app:
+  demo: ${DEMO_CONTENT:false}
+  demo-refresh: ${DEMO_REFRESH:}
+  owner-email: ${OWNER_EMAIL:}
+  owner-password: ${OWNER_PASSWORD:}
+  base-url: ${BASE_URL:http://localhost:5173}
+  mail-from: ${MAIL_FROM:noreply@localhost}

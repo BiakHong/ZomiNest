@@ -1,0 +1,795 @@
+{
+  "title": "Which community character are you?",
+  "description": "A playful 12-question demo with six fictional characters. The planned Zomi celebrity collection needs verified names, permissions and reviewed descriptions.",
+  "category": "Just for fun",
+  "type": "OUTCOME",
+  "credit": null,
+  "demo": true,
+  "questions": [
+    {
+      "id": "c0",
+      "text": "At a community gathering, what draws you in?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c1": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c2": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c3": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c4": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c0": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c1",
+      "text": "A friend starts a project. How do you join?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c2": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c3": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c4": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c0": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c1": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c2",
+      "text": "What would you choose for a free afternoon?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c3": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c4": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c0": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c1": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c2": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c3",
+      "text": "A group needs a fresh idea. What do you offer?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c4": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c0": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c1": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c2": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c3": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c4",
+      "text": "What makes a shared experience memorable?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c0": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c1": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c2": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c3": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c4": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c5",
+      "text": "How do you approach a new place?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c6",
+      "text": "Which contribution feels most natural?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c1": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c2": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c3": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c4": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c0": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c7",
+      "text": "What do friends often appreciate about you?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c2": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c3": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c4": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c0": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c1": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c8",
+      "text": "A plan changes suddenly. What do you do?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c3": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c4": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c0": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c1": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c2": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c9",
+      "text": "What would you bring to a neighborhood event?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c4": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c0": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c1": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c2": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c3": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c10",
+      "text": "What kind of challenge attracts you?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 2,
+            "c5": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 2,
+            "c0": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 2,
+            "c1": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 2,
+            "c2": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 2,
+            "c3": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 2,
+            "c4": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "c11",
+      "text": "How would you welcome a new member?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Collect the stories",
+          "correct": null,
+          "weights": {
+            "c0": 1
+          }
+        },
+        {
+          "id": "o1",
+          "text": "Bring people together",
+          "correct": null,
+          "weights": {
+            "c1": 1
+          }
+        },
+        {
+          "id": "o2",
+          "text": "Make something useful",
+          "correct": null,
+          "weights": {
+            "c2": 1
+          }
+        },
+        {
+          "id": "o3",
+          "text": "Listen and reflect",
+          "correct": null,
+          "weights": {
+            "c3": 1
+          }
+        },
+        {
+          "id": "o4",
+          "text": "Try something new",
+          "correct": null,
+          "weights": {
+            "c4": 1
+          }
+        },
+        {
+          "id": "o5",
+          "text": "Offer a helping hand",
+          "correct": null,
+          "weights": {
+            "c5": 1
+          }
+        }
+      ],
+      "explanation": null,
+      "trait": null,
+      "reverse": false
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "c0",
+      "name": "The Story Keeper",
+      "description": "You enjoy finding meaning in shared memories. This is a fictional development character, not a real Zomi celebrity."
+    },
+    {
+      "id": "c1",
+      "name": "The Bridge Builder",
+      "description": "You look for connections between people and ideas. This is a fictional development character, not a real Zomi celebrity."
+    },
+    {
+      "id": "c2",
+      "name": "The Curious Maker",
+      "description": "You like turning possibilities into things people can use. This is a fictional development character, not a real Zomi celebrity."
+    },
+    {
+      "id": "c3",
+      "name": "The Quiet Guide",
+      "description": "You make room for thoughtful reflection. This is a fictional development character, not a real Zomi celebrity."
+    },
+    {
+      "id": "c4",
+      "name": "The Bright Spark",
+      "description": "You bring enthusiasm to new experiences. This is a fictional development character, not a real Zomi celebrity."
+    },
+    {
+      "id": "c5",
+      "name": "The Steady Friend",
+      "description": "You show care through steady practical support. This is a fictional development character, not a real Zomi celebrity."
+    }
+  ],
+  "tieOrder": [
+    "c0",
+    "c1",
+    "c2",
+    "c3",
+    "c4",
+    "c5"
+  ],
+  "profiles": {}
+}

@@ -1,0 +1,2055 @@
+{
+  "title": "Discover your personality",
+  "description": "Explore how you connect with others, process information, make decisions, plan, and respond to stress.",
+  "category": "Personality",
+  "type": "PERSONALITY",
+  "credit": "Zomi Nest",
+  "demo": false,
+  "questionnaireVersion": "zomi-personality-60-v1",
+  "questions": [
+    {
+      "id": "q01",
+      "text": "You regularly make new friends.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "text": "You enjoy exploring unfamiliar ideas and viewpoints.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "text": "You are not easily swayed by emotional arguments.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "text": "You struggle with deadlines.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "text": "You rarely feel insecure.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "text": "You avoid making phone calls.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "text": "You enjoy debating ethical dilemmas.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "text": "You prioritize being sensitive over being completely honest.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "text": "Your living and working spaces are clean and organized.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "You often feel overwhelmed.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "text": "You enjoy participating in team-based activities.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "text": "You enjoy experimenting with new and untested approaches.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "text": "You prioritize facts over people’s feelings when determining a course of action.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "text": "You often allow the day to unfold without any schedule at all.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "text": "You rarely worry about whether you make a good impression on people you meet.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "text": "You feel comfortable just walking up to someone you find interesting and striking up a conversation.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "text": "You are not too interested in discussions about various interpretations of creative works.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "text": "People’s stories and emotions speak louder to you than numbers or data.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "text": "You actively seek out new experiences and knowledge areas to explore.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "text": "You are prone to worrying that things will take a turn for the worse.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "text": "You enjoy solitary hobbies or activities more than group ones.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "text": "You cannot imagine yourself writing fictional stories for a living.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "text": "You favor efficiency in decisions, even if it means disregarding some emotional aspects.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "text": "You prefer to do your chores before allowing yourself to relax.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "text": "In disagreements, you prioritize proving your point over preserving the feelings of others.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "text": "You usually wait for others to introduce themselves first at social gatherings.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "text": "Your mood can change very quickly.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "text": "You usually feel more persuaded by what resonates emotionally with you than by factual arguments.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "text": "You often end up doing things at the last possible moment.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "text": "You prioritize and plan tasks effectively, often completing them well before the deadline.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q31",
+      "text": "You usually prefer to be around others rather than on your own.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q32",
+      "text": "You become bored or lose interest when the discussion gets highly theoretical.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q33",
+      "text": "When facts and feelings conflict, you usually find yourself following your heart.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q34",
+      "text": "You find it challenging to maintain a consistent work or study schedule.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q35",
+      "text": "You rarely second-guess the choices that you have made.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q36",
+      "text": "Your friends would describe you as lively and outgoing.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q37",
+      "text": "You are drawn to various forms of creative expression, such as writing.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q38",
+      "text": "You usually base your choices on objective facts rather than emotional impressions.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q39",
+      "text": "You like to have a to-do list for each day.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q40",
+      "text": "You usually stay calm, even under a lot of pressure.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q41",
+      "text": "You find the idea of networking or promoting yourself to strangers very daunting.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q42",
+      "text": "Complex and novel ideas excite you more than simple and straightforward ones.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q43",
+      "text": "You can easily connect with people you have just met.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q44",
+      "text": "If your plans are interrupted, your top priority is to get back on track as soon as possible.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q45",
+      "text": "You are still bothered by mistakes that you made a long time ago.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q46",
+      "text": "You are not too interested in discussions on what the world could look like in the future.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q47",
+      "text": "Your emotions control you more than you control them.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q48",
+      "text": "When making decisions, you focus more on how the affected people might feel than on what is most logical or efficient.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q49",
+      "text": "Your personal work style is closer to spontaneous bursts of energy than organized and consistent efforts.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q50",
+      "text": "When someone thinks highly of you, you wonder how long it will take them to feel disappointed in you.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q51",
+      "text": "You would love a job that requires you to work alone most of the time.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q52",
+      "text": "You believe that pondering abstract philosophical questions is a waste of time.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q53",
+      "text": "You feel more drawn to busy, bustling atmospheres than to quiet, intimate places.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q54",
+      "text": "If a decision feels right to you, you often act on it without needing further proof.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q55",
+      "text": "You complete things methodically without skipping over any steps.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q56",
+      "text": "You prefer tasks that require you to come up with creative solutions rather than follow concrete steps.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q57",
+      "text": "You are more likely to rely on emotional intuition than logical reasoning when making a choice.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q58",
+      "text": "You like to use organizing tools like schedules and lists.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q59",
+      "text": "You feel confident that things will work out for you.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    },
+    {
+      "id": "q60",
+      "text": "Even a small mistake can cause you to doubt your overall abilities and knowledge.",
+      "options": [
+        {
+          "id": "-3",
+          "text": "Strongly disagree"
+        },
+        {
+          "id": "-2",
+          "text": "Disagree"
+        },
+        {
+          "id": "-1",
+          "text": "Slightly disagree"
+        },
+        {
+          "id": "0",
+          "text": "Neutral"
+        },
+        {
+          "id": "1",
+          "text": "Slightly agree"
+        },
+        {
+          "id": "2",
+          "text": "Agree"
+        },
+        {
+          "id": "3",
+          "text": "Strongly agree"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Self-reflection",
+    "Personality"
+  ]
+}

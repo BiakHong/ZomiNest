@@ -1,0 +1,1928 @@
+{
+  "title": "Paunak leh a khiatna",
+  "description": "Match 58 traditional Zomi proverbs with their meanings. The Zomi meanings are summarized and reworded from the six-part Zomi Daily series.",
+  "category": "Language & culture",
+  "type": "KNOWLEDGE",
+  "credit": "Traditional Zomi proverbs collected by Zomi Daily, Paunak leh a khiatna 1–6, June 10–15, 2015. Meanings summarized and reworded for this quiz; incorrect choices use meanings of other proverbs. Sources: https://zomidaily.com/paunak-leh-a-khiatna-1/ https://zomidaily.com/paunak-leh-a-khiatna-2/ https://zomidaily.com/paunak-leh-a-khiatna-3/ https://zomidaily.com/paunak-leh-a-khiatna-4/ https://zomidaily.com/paunak-leh-a-khiatna-5/ https://zomidaily.com/paunak-leh-a-khiatna-6/",
+  "demo": false,
+  "questionsPerAttempt": 10,
+  "questions": [
+    {
+      "id": "k0",
+      "text": "A si masa puantuam tang..?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Mailam ngaihsun khol in nasep khempeuh ah kigingkhol ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "A zawh kuan tung khin napi, a tawpna ah lehkik leltakna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "A kipan masa te in hamphatna ngah masa thei uh hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "A kipan masa te in hamphatna ngah masa thei uh hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k1",
+      "text": "Ak ta mang kuan ki tu tu ?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Ki lungtuak lohna in siatna leh manthanna hong piangsak thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Innkuan leh khua ki lungtuak in mapan leh a thahat hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Khat leh khat a kisamte kikhek in hamphatna ngahkhawm hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Ki lungtuak lohna in siatna leh manthanna hong piangsak thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k2",
+      "text": "Ak ta duh gawl ki lawh khuh?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Duham luatna hangin mite ginmawhna thuak thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Kipil sak lua te in lampialhna tuak baih thei uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Leiba neihna hangin mite simmawhna leh nopsakna thuak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Numei khat in ta tampi neih hang, tua tawh kisial a kiphatsak ding hilo hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Duham luatna hangin mite ginmawhna thuak thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k3",
+      "text": "Ak tui sung ah a vom ding leh a kang ding ki tha lo?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "A kipatna ah than ngitnget napi, tawlkhat sungin a dai pah thute ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Na khat in hun beisa kipahna leh dahna phawksak kik hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Pasal in kamciam leh thugen khin kikhel lo ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "A piang nai lo mailam thu kuamah in cian takin thei khol zo lo hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "A piang nai lo mailam thu kuamah in cian takin thei khol zo lo hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k4",
+      "text": "Bui pi lei kei in zong khua ngai ?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Numei khat in ta tampi neih hang, tua tawh kisial a kiphatsak ding hilo hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Nulepa a thumangte tungah thupha hong tung hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Zin leh lawmte kipah takin dawngthuk a, zindo siam ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Kua peuh hitaleh pilvang takin om a, gamtatna kidawm ding hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Kua peuh hitaleh pilvang takin om a, gamtatna kidawm ding hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k5",
+      "text": "Bui a phak khuan a tawp?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "A zawh kuan tung khin napi, a tawpna ah lehkik leltakna ahi hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Zo nai lo napi a ngah khin bang a kisa ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Siatna a piang khit teh puah sawm zong nungtel lua thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "A zawh kuan tung khin napi, a tawpna ah lehkik leltakna ahi hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k6",
+      "text": "Cim nuai a sa ki bak gel tui ah ki thuk?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "A sia khin thu zong puahphatna ngah in hoih kik thei lai hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mi hong huhna leh hoihna mangngilh loin, hun ngah ciang thukkik ding hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Nulepa a thumangte tungah thupha hong tung hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Mi hong huhna leh hoihna mangngilh loin, hun ngah ciang thukkik ding hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k7",
+      "text": "Dek lam tuk tum zong gal suak thei?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "A muanhuai pen i sak mi nangawn hong langpang thei lai hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Min hoih neihsa zong kikep zawhloh ciang, minsiatna sungah ki puk kik thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Mihoihlo te a gui leh a bul tawh kizuih thu a cihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "A muanhuai pen i sak mi nangawn hong langpang thei lai hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k8",
+      "text": "Gallu kih ta gallu tuak?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Haksatna i pelh sawm hangin, tua mah tawh kituak kik thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Kikep in lauhuaina a phawk khol mite in buaina pelh thei zaw uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "A sia khin thu zong puahphatna ngah in hoih kik thei lai hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Haksatna i pelh sawm hangin, tua mah tawh kituak kik thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k9",
+      "text": "Gal phawn kuan leh ma tut kuan?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "A zawh kuan tung khin napi, a tawpna ah lehkik leltakna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Nasep nukhawlh in thadahna in, haksatna leh buaina hong tunsak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Zo nai lo napi a ngah khin bang a kisa ahi hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k10",
+      "text": "Gip zong leh khuai zong ki tuak?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Khat leh khat a kisamte kikhek in hamphatna ngahkhawm hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Siamna kibang zong makai sem ding mi khat kitel kul hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Mi khat hauhna leh vangliatna hangin a kimkot mite zong hampha uh hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Khat leh khat a kisamte kikhek in hamphatna ngahkhawm hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k11",
+      "text": "Ha kai pahtak lung heng?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "A kipatna ah than ngitnget napi, tawlkhat sungin a dai pah thute ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "A sia khin thu zong puahphatna ngah in hoih kik thei lai hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Hoih ding i lametna khat in, i ngaihsut bang hong hi lo thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Min hoih neihsa zong kikep zawhloh ciang, minsiatna sungah ki puk kik thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Hoih ding i lametna khat in, i ngaihsut bang hong hi lo thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k12",
+      "text": "Hau sa sial mei let?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Naneu zo masa lo in nalian bek deihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "A kipan masa te in hamphatna ngah masa thei uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Nasep bawlna ah pawl khat in a zahna ding hangthu zong uh hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eima mailam ding a eima ciat hanciam kul hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Nasep bawlna ah pawl khat in a zahna ding hangthu zong uh hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k13",
+      "text": "Hau sa ziak in kuang zang ban?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Leiba neihna hangin mite simmawhna leh nopsakna thuak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mi khat hauhna leh vangliatna hangin a kimkot mite zong hampha uh hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Siamna kibang zong makai sem ding mi khat kitel kul hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eima mailam ding a eima ciat hanciam kul hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Mi khat hauhna leh vangliatna hangin a kimkot mite zong hampha uh hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k14",
+      "text": "Hawm sem nung ta ne bum puk si?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Hawmna leh cinghna in nuntakna nuamsak a; duh-amna in kisinatsak thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Leiba neihna hangin mite simmawhna leh nopsakna thuak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Mi khat hauhna leh vangliatna hangin a kimkot mite zong hampha uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Hawmna leh cinghna in nuntakna nuamsak a; duh-amna in kisinatsak thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k15",
+      "text": "Inn gua hah lo, gam gua hah?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Eima mailam ding a eima ciat hanciam kul hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Nulepa a thumangte tungah thupha hong tung hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Eima innkuan leh khua donlo in, midang vai ah buai zawhna ahi hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Zin leh lawmte kipah takin dawngthuk a, zindo siam ding hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Eima innkuan leh khua donlo in, midang vai ah buai zawhna ahi hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k16",
+      "text": "Kam siam sial lei sang, kam sia sial liau?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Thupha than sangin thusia leh thuthang hoihlo pen zel manlang zaw hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Heh ciangin thukik pahlo in, ngaihsun masa in.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Pau siamna in mawhna damsak thei a; paukhialhna in min hong siatsak thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Zuau genna in a sul nei a, a tawpna ah a thutak ki theikhia zel hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Pau siamna in mawhna damsak thei a; paukhialhna in min hong siatsak thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k17",
+      "text": "Khai kha a gui ah gah?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mihoihlo te a gui leh a bul tawh kizuih thu a cihna ahi hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Numei khat in ta tampi neih hang, tua tawh kisial a kiphatsak ding hilo hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Min phalo innkuan panin mihoih leh mi thupi suak thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Mihoihlo te a gui leh a bul tawh kizuih thu a cihna ahi hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k18",
+      "text": "Kawl zong tui dam in ki ho?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Khat leh khat a kisamte kikhek in hamphatna ngahkhawm hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mi hong huhna leh hoihna mangngilh loin, hun ngah ciang thukkik ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Zin leh lawmte kipah takin dawngthuk a, zindo siam ding hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Zin leh lawmte kipah takin dawngthuk a, zindo siam ding hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k19",
+      "text": "Kom kim zong tapa sal sagih nei sa naw kik?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Tate in nulepa omzia leh gamtatna sun zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Min phalo innkuan panin mihoih leh mi thupi suak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Numei khat in ta tampi neih hang, tua tawh kisial a kiphatsak ding hilo hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Nulepa a thumangte tungah thupha hong tung hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Numei khat in ta tampi neih hang, tua tawh kisial a kiphatsak ding hilo hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k20",
+      "text": "Khua pi guah zu satang hal?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Thaneem zong lungkialo a semte in hamphatna ngah veve hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "A kipatna ah than ngitnget napi, tawlkhat sungin a dai pah thute ahi hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Nasep nukhawlh in thadahna in, haksatna leh buaina hong tunsak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "A kipatna ah than ngitnget napi, tawlkhat sungin a dai pah thute ahi hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k21",
+      "text": "Lei ba leh sakha nuai nung?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Midangte huhna tawh bek liatna leh lawhcinna kingah thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Duham luatna hangin mite ginmawhna thuak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Mi khat hauhna leh vangliatna hangin a kimkot mite zong hampha uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Leiba neihna hangin mite simmawhna leh nopsakna thuak thei hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Leiba neihna hangin mite simmawhna leh nopsakna thuak thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k22",
+      "text": "Lam nai tawn nuam be hiang kum kua a tung lo?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Kikep in lauhuaina a phawk khol mite in buaina pelh thei zaw uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Naneu zo masa lo in nalian bek deihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Nasep nukhawlh in thadahna in, haksatna leh buaina hong tunsak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "A baih pen bek zong in a kilawm bang zuihlohna in haksatna tun thei hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "A baih pen bek zong in a kilawm bang zuihlohna in haksatna tun thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k23",
+      "text": "Lang bawm a ek a awk?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Haksatna i pelh sawm hangin, tua mah tawh kituak kik thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Kidawm lohna hangin eima sepna mah pan buaina thukkik thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Mi khat gamtatna hoihlo hangin, a kisailo midang in siatna thuak lawh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Leiba neihna hangin mite simmawhna leh nopsakna thuak thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Kidawm lohna hangin eima sepna mah pan buaina thukkik thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k24",
+      "text": "Leii le ha zong ki pet?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "A ki-it mahmah te lakah zong ki kalhna leh kiphukalhna om thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Innkuan leh khua ki lungtuak in mapan leh a thahat hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Lawm lui kimuh kikna in ki-itna leh kipahna phawksak kik hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "A ki-it mahmah te lakah zong ki kalhna leh kiphukalhna om thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k25",
+      "text": "Lu sum zong bing tawng a zom?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Siatna a piang khit teh puah sawm zong nungtel lua thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "A zawh kuan tung khin napi, a tawpna ah lehkik leltakna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Min hoih neihsa zong kikep zawhloh ciang, minsiatna sungah ki puk kik thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "A sia khin thu zong puahphatna ngah in hoih kik thei lai hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "A sia khin thu zong puahphatna ngah in hoih kik thei lai hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k26",
+      "text": "Mei ma lo ah tho tu lo?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Zuau genna in a sul nei a, a tawpna ah a thutak ki theikhia zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Pasal in kamciam leh thugen khin kikhel lo ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Thu khat a ki genna nungah a bulpi a piangsak hangthu om zel hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Thupha than sangin thusia leh thuthang hoihlo pen zel manlang zaw hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Thu khat a ki genna nungah a bulpi a piangsak hangthu om zel hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k27",
+      "text": "Mei gong lung le sazan ta?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Lungtom, hehbaih in thu ngaihsun loin a gamta te a cihna ahi hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Heh ciangin thukik pahlo in, ngaihsun masa in.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Eima mawhna phawklo in midang khialhna bek ko in gensiatna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Kipil sak lua te in lampialhna tuak baih thei uh hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Lungtom, hehbaih in thu ngaihsun loin a gamta te a cihna ahi hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k28",
+      "text": "Mi hing le pa po?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Na khat in hun beisa kipahna leh dahna phawksak kik hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mihing khat leitungah a omtheih hun sau hetlo hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "A kipatna ah than ngitnget napi, tawlkhat sungin a dai pah thute ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "A kipan masa te in hamphatna ngah masa thei uh hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Mihing khat leitungah a omtheih hun sau hetlo hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k29",
+      "text": "Mual mong mei khuzong nuam tuam?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Eimah dah leh lungkham laitakin, midangte pen lungnuam ciat dingin i ngai hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Na khat in hun beisa kipahna leh dahna phawksak kik hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Lawm lui kimuh kikna in ki-itna leh kipahna phawksak kik hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Eimah dah leh lungkham laitakin, midangte pen lungnuam ciat dingin i ngai hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k30",
+      "text": "Mui zang lua ki pei sat?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Pasal in kamciam leh thugen khin kikhel lo ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Eima mailam ding a eima ciat hanciam kul hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Kipil sak lua te in lampialhna tuak baih thei uh hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Kikep in lauhuaina a phawk khol mite in buaina pelh thei zaw uh hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Kipil sak lua te in lampialhna tuak baih thei uh hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k31",
+      "text": "Nadak kang in kawl lawh,Dai zang kang in kawl peh?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Mun khat thu piang in kimkot munte zong sukha hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Siamna kibang zong makai sem ding mi khat kitel kul hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Mi khat hauhna leh vangliatna hangin a kimkot mite zong hampha uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Thaneem zong lungkialo a semte in hamphatna ngah veve hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Mun khat thu piang in kimkot munte zong sukha hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k32",
+      "text": "Ngak tang hapak sa tum kik ngei lo?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Pasal in kamciam leh thugen khin kikhel lo ding hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Zuau genna in a sul nei a, a tawpna ah a thutak ki theikhia zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Heh ciangin thukik pahlo in, ngaihsun masa in.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Pau siamna in mawhna damsak thei a; paukhialhna in min hong siatsak thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Pasal in kamciam leh thugen khin kikhel lo ding hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k33",
+      "text": "A nu nung galban sat?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Naneu zo masa lo in nalian bek deihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Thaneem zong lungkialo a semte in hamphatna ngah veve hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "A zawh kuan tung khin napi, a tawpna ah lehkik leltakna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Kipil sak lua te in lampialhna tuak baih thei uh hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Thaneem zong lungkialo a semte in hamphatna ngah veve hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k34",
+      "text": "NU leh PA thu mang a nah lawh pek?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Numei khat in ta tampi neih hang, tua tawh kisial a kiphatsak ding hilo hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Tate in nulepa omzia leh gamtatna sun zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Min phalo innkuan panin mihoih leh mi thupi suak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Nulepa a thumangte tungah thupha hong tung hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Nulepa a thumangte tungah thupha hong tung hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k35",
+      "text": "Nu Pa ki lung tuak khua 1 in zo lo, khua 1 ki lung tuak khua kua in zolo?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Innkuan leh khua ki lungtuak in mapan leh a thahat hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Siamna kibang zong makai sem ding mi khat kitel kul hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "A ki-it mahmah te lakah zong ki kalhna leh kiphukalhna om thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Innkuan leh khua ki lungtuak in mapan leh a thahat hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k36",
+      "text": "Nu mei inama khuat, sum kuang in a lii khuat?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Eima innkuan leh khua donlo in, midang vai ah buai zawhna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Eima mailam ding a eima ciat hanciam kul hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Mi khat hauhna leh vangliatna hangin a kimkot mite zong hampha uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Midangte huhna tawh bek liatna leh lawhcinna kingah thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Eima mailam ding a eima ciat hanciam kul hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k37",
+      "text": "Nah kia kawi in nah kia mam suang?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Tate in nulepa omzia leh gamtatna sun zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mihoihlo te a gui leh a bul tawh kizuih thu a cihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Min phalo innkuan panin mihoih leh mi thupi suak thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Min phalo innkuan panin mihoih leh mi thupi suak thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k38",
+      "text": "Pa that to khom guan?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Eima mawhna phawklo in midang khialhna bek ko in gensiatna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Lungtom, hehbaih in thu ngaihsun loin a gamta te a cihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Heh ciangin thukik pahlo in, ngaihsun masa in.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Pasal in kamciam leh thugen khin kikhel lo ding hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Heh ciangin thukik pahlo in, ngaihsun masa in.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k39",
+      "text": "Pu te lam sak ki neh zo lo?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Nulepa a thumangte tungah thupha hong tung hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Tate in nulepa omzia leh gamtatna sun zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Min phalo innkuan panin mihoih leh mi thupi suak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Pute simmawh sawm hangin amau zo ding haksa hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Pute simmawh sawm hangin amau zo ding haksa hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k40",
+      "text": "Sakhi api san a no san ?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Tate in nulepa omzia leh gamtatna sun zel hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Min phalo innkuan panin mihoih leh mi thupi suak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Nulepa a thumangte tungah thupha hong tung hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Numei khat in ta tampi neih hang, tua tawh kisial a kiphatsak ding hilo hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Tate in nulepa omzia leh gamtatna sun zel hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k41",
+      "text": "Sa khi in a tat na ding kuam kua khual?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Zo nai lo napi a ngah khin bang a kisa ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Nasep nukhawlh in thadahna in, haksatna leh buaina hong tunsak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "A piang nai lo mailam thu kuamah in cian takin thei khol zo lo hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Mailam ngaihsun khol in nasep khempeuh ah kigingkhol ding hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Mailam ngaihsun khol in nasep khempeuh ah kigingkhol ding hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k42",
+      "text": "Sa khi that lo ngal tang tum?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Nasep bawlna ah pawl khat in a zahna ding hangthu zong uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Naneu zo masa lo in nalian bek deihna ahi hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Siamna kibang zong makai sem ding mi khat kitel kul hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Naneu zo masa lo in nalian bek deihna ahi hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k43",
+      "text": "Sial tat nung a sial dai kai?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Siatna a piang khit teh puah sawm zong nungtel lua thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "A sia khin thu zong puahphatna ngah in hoih kik thei lai hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Kikep in lauhuaina a phawk khol mite in buaina pelh thei zaw uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "A zawh kuan tung khin napi, a tawpna ah lehkik leltakna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Siatna a piang khit teh puah sawm zong nungtel lua thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k44",
+      "text": "Sial nu phal zong sih kuang ah ki liiak?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Lawm lui kimuh kikna in ki-itna leh kipahna phawksak kik hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mi hong huhna leh hoihna mangngilh loin, hun ngah ciang thukkik ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eimah dah leh lungkham laitakin, midangte pen lungnuam ciat dingin i ngai hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Lawm lui kimuh kikna in ki-itna leh kipahna phawksak kik hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k45",
+      "text": "Sial vom leh sial vom ki ngai?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Khat leh khat a kisamte kikhek in hamphatna ngahkhawm hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Innkuan leh khua ki lungtuak in mapan leh a thahat hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Lawm lui kimuh kikna in ki-itna leh kipahna phawksak kik hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Eimah tawh a kibang mite tawh kilawmtat ding baih hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k46",
+      "text": "Sim beng zong kim cit ciat tang zang ki guang?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Kipil sak lua te in lampialhna tuak baih thei uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Midangte huhna tawh bek liatna leh lawhcinna kingah thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Siamna kibang zong makai sem ding mi khat kitel kul hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Innkuan leh khua ki lungtuak in mapan leh a thahat hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Siamna kibang zong makai sem ding mi khat kitel kul hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k47",
+      "text": "Suang pi suang neu in thek?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "A kipan masa te in hamphatna ngah masa thei uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Midangte huhna tawh bek liatna leh lawhcinna kingah thei hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Mi khat hauhna leh vangliatna hangin a kimkot mite zong hampha uh hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Eima mailam ding a eima ciat hanciam kul hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Midangte huhna tawh bek liatna leh lawhcinna kingah thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k48",
+      "text": "Tang a si kawl in kah?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Na khat in hun beisa kipahna leh dahna phawksak kik hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Eimah dah leh lungkham laitakin, midangte pen lungnuam ciat dingin i ngai hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "A kipatna ah than ngitnget napi, tawlkhat sungin a dai pah thute ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Mihing khat leitungah a omtheih hun sau hetlo hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Na khat in hun beisa kipahna leh dahna phawksak kik hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k49",
+      "text": "Tu nai lo khe khuang? Man nai lo tul sui?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Naneu zo masa lo in nalian bek deihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "A zawh kuan tung khin napi, a tawpna ah lehkik leltakna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Zo nai lo napi a ngah khin bang a kisa ahi hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Zo nai lo napi a ngah khin bang a kisa ahi hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k50",
+      "text": "Thu pha in kong biang kan lo,,,,thu sia in mual kua khum?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Thu khat a ki genna nungah a bulpi a piangsak hangthu om zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Zuau genna in a sul nei a, a tawpna ah a thutak ki theikhia zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Thupha than sangin thusia leh thuthang hoihlo pen zel manlang zaw hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Pau siamna in mawhna damsak thei a; paukhialhna in min hong siatsak thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Thupha than sangin thusia leh thuthang hoihlo pen zel manlang zaw hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k51",
+      "text": "Va ak cingh kam sakhau tawhah ki pua lo?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Haksatna i pelh sawm hangin, tua mah tawh kituak kik thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Nasep nukhawlh in thadahna in, haksatna leh buaina hong tunsak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "A piang nai lo mailam thu kuamah in cian takin thei khol zo lo hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Kikep in lauhuaina a phawk khol mite in buaina pelh thei zaw uh hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Kikep in lauhuaina a phawk khol mite in buaina pelh thei zaw uh hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k52",
+      "text": "Vai nu nung guah sia in lap?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Mailam ngaihsun khol in nasep khempeuh ah kigingkhol ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Naneu zo masa lo in nalian bek deihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Nasep a tawp kuan ciangin thanem loin, a zawh dong hanciam ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Nasep nukhawlh in thadahna in, haksatna leh buaina hong tunsak thei hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Nasep nukhawlh in thadahna in, haksatna leh buaina hong tunsak thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k53",
+      "text": "Va phual tang sa va ak tang?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Min phalo innkuan panin mihoih leh mi thupi suak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Tate in nulepa omzia leh gamtatna sun zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Pau siamna in mawhna damsak thei a; paukhialhna in min hong siatsak thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Min hoih neihsa zong kikep zawhloh ciang, minsiatna sungah ki puk kik thei hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Min hoih neihsa zong kikep zawhloh ciang, minsiatna sungah ki puk kik thei hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k54",
+      "text": "Zawl thu kal ah sial thawl?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "A ki-it mahmah te lakah zong ki kalhna leh kiphukalhna om thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Innkuan leh khua ki lungtuak in mapan leh a thahat hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Thu ki zawlna lakah thusineuno nangawn buaina lianpi suak baih hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Heh ciangin thukik pahlo in, ngaihsun masa in.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Thu ki zawlna lakah thusineuno nangawn buaina lianpi suak baih hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k55",
+      "text": "Zawng nek ngau in thal pu?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Haksatna i pelh sawm hangin, tua mah tawh kituak kik thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mi khat gamtatna hoihlo hangin, a kisailo midang in siatna thuak lawh hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Kidawm lohna hangin eima sepna mah pan buaina thukkik thei hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Leiba neihna hangin mite simmawhna leh nopsakna thuak thei hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Mi khat gamtatna hoihlo hangin, a kisailo midang in siatna thuak lawh hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k56",
+      "text": "Zawng in a ma kheng mu lo in a lawm te kheng ko?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Heh ciangin thukik pahlo in, ngaihsun masa in.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Mihoihlo te a gui leh a bul tawh kizuih thu a cihna ahi hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Eima mawhna phawklo in midang khialhna bek ko in gensiatna ahi hi.",
+          "correct": 1,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Kipil sak lua te in lampialhna tuak baih thei uh hi.",
+          "correct": 0,
+          "weights": {}
+        }
+      ],
+      "explanation": "Eima mawhna phawklo in midang khialhna bek ko in gensiatna ahi hi.",
+      "trait": null,
+      "reverse": false
+    },
+    {
+      "id": "k57",
+      "text": "Zuau in a khap tawn?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "Thupha than sangin thusia leh thuthang hoihlo pen zel manlang zaw hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o1",
+          "text": "Thu khat a ki genna nungah a bulpi a piangsak hangthu om zel hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o2",
+          "text": "Pasal in kamciam leh thugen khin kikhel lo ding hi.",
+          "correct": 0,
+          "weights": {}
+        },
+        {
+          "id": "o3",
+          "text": "Zuau genna in a sul nei a, a tawpna ah a thutak ki theikhia zel hi.",
+          "correct": 1,
+          "weights": {}
+        }
+      ],
+      "explanation": "Zuau genna in a sul nei a, a tawpna ah a thutak ki theikhia zel hi.",
+      "trait": null,
+      "reverse": false
+    }
+  ],
+  "outcomes": [],
+  "tieOrder": [],
+  "profiles": {}
+}
